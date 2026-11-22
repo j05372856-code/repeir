@@ -1,4 +1,4 @@
-# repeir
+# ПОЧИНКА  EASYCNTICHEATФОРТИНАЙТ FORTNITE EASYANTICHEAT REPAIR
 67
 rus Откройте командную строку от имени администратора.
 Введите команду: cd C:\Program Files (x86)\EasyAntiCheat_EOS (путь может отличаться в зависимости от установки).
